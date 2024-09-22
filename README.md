@@ -1,0 +1,1 @@
+# Automated-Bulk-Email-Delivery-Solution-Using-AWS-Lambda-and-S3
