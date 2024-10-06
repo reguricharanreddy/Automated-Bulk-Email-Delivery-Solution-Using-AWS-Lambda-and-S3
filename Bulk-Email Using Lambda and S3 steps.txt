@@ -1,0 +1,13 @@
+Mass-Email Using Lambda and S3
+
+1. Setting Up S3 for CSV File Uploads
+2. Creating and Verifying SES Identities
+3. Setting Up AWS Lambda with SES
+   3.1 Create a role for Lambda
+   3.2 Create a Lambda Function
+4. Setting S3 Event Triggers
+5. Logic for Lambda Function
+     Change: Source-mail and region
+6. Upload CSV File
+
+     Successfully sent the mails by using ses,lambda and s3
